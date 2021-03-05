@@ -16,7 +16,6 @@ public class Creature {
         AC = newAC;
         WeaponDice = newWeaponDice;
         ProfBonus = newProfBonus;
-
     }
 
     public int RollTheInitiative(int agility){
